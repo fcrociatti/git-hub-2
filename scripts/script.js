@@ -1,0 +1,1 @@
+// todo o script ficará aqui
